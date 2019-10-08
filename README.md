@@ -3,7 +3,7 @@
 
 ## Motivation
 
-For all companies that bill customers on a regular basis, one of the main variables is churning. So, __INSAID__ provided me with the oppurtunity to applying ML techniques to predicting customer. I have to see if I could identify the key reasons behind customer churn & if possible, create a model that would help retain the same customers.
+For all companies that bill customers on a regular basis, one of the main variables is churning. __INSAID__ provided me with the oppurtunity to applying ML techniques to predicting customer. I have to see if I could identify the key reasons behind customer churn & if possible, create a model that would help retain the same customers.
 
 ### Python Libraries
 - pandas
