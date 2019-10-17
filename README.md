@@ -3,7 +3,7 @@
 
 ## Motivation
 
-For all companies that bill customers on a regular basis, one of the main variables is churning. The object of this project is to see if one could identify the key reasons behind customer churn & if possible, create a model that would help retain the same customers.
+For all companies that bill customers on a regular basis, one of the main variables is churning. The objective of this project is to see if one could identify the key reasons behind customer churn & if possible, create a model that would help retain the same customers.
 
 ### Python Libraries
 - pandas
