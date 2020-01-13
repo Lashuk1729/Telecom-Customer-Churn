@@ -1,11 +1,11 @@
 <h1 align="center"> Customer Churn Analysis using Machine Learning Techniques </h1>
 <p align = "right" style="color: gray; font-size:1em;">Kushal Borkar<br>7th Oct, 2019</p>
-
 ## Motivation
 
 For all companies that bill customers on a regular basis, one of the main variables is churning. The objective of this project is to see if one could identify the key reasons behind customer churn & if possible, create a model that would help retain the same customers.
 
-### Python Libraries
+### Python Libraries Used
+
 - pandas
 - numpy
 - seaborn
@@ -44,7 +44,7 @@ The dataset consists of 21 variables in all. A few are continuous, rest are cate
 
 - ___In addition, we proceeded to use techniques like Feature Importance & Feature Selection to see if we had any variables that were redundant & could be discarded in the process of building the models.___
 
-- ___Consequently, decided to use models like Logistic Regression, Random Forest, Decision Trees & Naïve-Bayes Classifier for this analysis.___
+- ___Consequently, decided to use models like Logistic Regression, Random Forest, Decision Trees & Naive-Bayes Classifier for this analysis.___
 
 - ___We split the data into train & test & built a model using each of these classifiers.___
 
